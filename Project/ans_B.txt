@@ -1,0 +1,14 @@
+Function "get_fun_name" starts with line 11, ends with line 29, which has 19 lines.
+Function "judge_code" starts with line 46, ends with line 56, which has 11 lines.
+Function "judge_percent" starts with line 58, ends with line 66, which has 9 lines.
+Function "judge_comment" starts with line 68, ends with line 71, which has 4 lines.
+Function "judge_empty" starts with line 73, ends with line 76, which has 4 lines.
+Function "print" starts with line 78, ends with line 92, which has 15 lines.
+Function "main" starts with line 94, ends with line 158, which has 65 lines.
+There are 129 code lines in total.
+There are 11 comment lines in total.
+There are 18 empty lines in total.
+There are 158 lines in total.
+Code Lines Grade: B
+Comment Lines Grade: C
+Empty Lines Grade: B

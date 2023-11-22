@@ -1,0 +1,10 @@
+Function "funA" starts with line 3, ends with line 8, which has 6 lines.
+Function "funB" starts with line 10, ends with line 18, which has 9 lines.
+Function "main" starts with line 22, ends with line 26, which has 5 lines.
+There are 18 code lines in total.
+There are 4 comment lines in total.
+There are 4 empty lines in total.
+There are 26 lines in total.
+Code Lines Grade: C
+Comment Lines Grade: A
+Empty Lines Grade: A
